@@ -1,0 +1,58 @@
+SUBREDDIT: leetcode
+POST_ID: 1nrwgv8
+POST_TITLE: it takes time
+POST_SCORE: 3939
+POST_URL: https://www.reddit.com/r/leetcode/comments/1nrwgv8/
+POST_DATE: 2025-09-27
+
+POST:
+Practice takes time. Graduated few months back yet looking for a job.
+
+Done over 500 LC problems, still struggling. Failed multiple full-loop.
+
+COMMENTS:
+[score: 104] Hang in there guys. It took me almost 10 months after 25 yoe to find a shitty job lol
+
+[score: 75] When I get my first job, I will give **taco party** to everyone in this sub.
+
+[score: 54] It is more like time complexity of tower of hanoi problem
+
+[score: 54] I swear leetcode is useless with the current job market, might as well get some certificates on the side
+
+[score: 32] Every interview I’ve had recently still has a coding round with dsa. Don’t think it’s a waste of time yet.
+
+[score: 31] Tf did I read, 25?! Why tf even go through all those sleepless nights of studying right from school and even in our 50s.
+
+[score: 26] or just die on the side
+
+[score: 20] Challenging steps in my situation:
+
+Getting interviews < Solving LC medium problems < Clearing interviews < Consistent daily practice
+
+[score: 17] 20+ YOE.  Haven’t found certs to matter, even though they are adjacent to my work experience (AWS/Azure).  Leetcoding at least help you pass thru the initial automated coding assessments.
+
+[score: 16] More like O(2^n )
+
+[score: 16] Job Search 😭
+
+[score: 9] Only in theory, we can solve search problem quickly.
+
+[score: 8] I fully expect tacos when you do.
+
+[score: 8] Its a waste of time. Getting certs or learning software that companies use will get your jobs faster.
+
+[score: 4] 10 months? Even after having 25yoe 😳 woah 😯
+
+[score: 4] yes, I can but you may not want my guidance.
+
+I had my Amazon full-loop in June. Failed it as always.
+
+[score: 3] Nah bro! We believe in you you'll get it. Good things take a bit of time lots of opportunities are popping up
+
+[score: 3] Reserved, lol
+
+[score: 3] As a 0 YOE, certs do matter as the job market now is saturated with people who knows how to leetcode/ cheating on OA
+
+[score: 3] thanks for sharing
+
+[score: 3] Ive noticed tech jobs have a greater focus on soft skills now that just leetcode. Ie if you can be friendly and sociable with the managers you are more likely to get the job.

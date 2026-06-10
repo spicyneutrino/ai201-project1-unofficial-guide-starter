@@ -1,0 +1,119 @@
+SUBREDDIT: SoftwareEngineering
+POST_ID: 1rq16fl
+POST_TITLE: Our team stopped doing standups, story points and retros — and nothing broke
+POST_SCORE: 151
+POST_URL: https://www.reddit.com/r/SoftwareEngineering/comments/1rq16fl/
+POST_DATE: 2026-03-10
+
+POST:
+I have a hypothesis that many of the processes we run in engineering teams are mostly organizational theater.
+
+Daily standups, story points, sprint planning, retrospectives, team metrics — the whole agile ceremony package.
+
+A few years ago I accidentally tested this.
+
+I became a tech lead of a brand new team and we started from scratch. Instead of introducing all the usual processes, we tried something very simple.
+
+I set goals for the team every 3 months and we just worked towards achieving them.
+
+No story points.  
+No sprint planning.  
+No retros.  
+No velocity tracking.
+
+We talked when it was necessary, adjusted the plan when reality changed, and focused on the actual outcome.
+
+What surprised me is that after a year we never felt the need to add those processes.
+
+The team was motivated, everyone understood the goal, and work moved forward without the usual structure.
+
+Since then I've been wondering if many engineering processes exist not because teams need them, but because organizations feel uncomfortable without them.
+
+Another thing that changed recently is AI.
+
+Now I sometimes pick up a task that was estimated as "5 story points", finish it in two hours with AI tools, and the estimation suddenly becomes meaningless.
+
+It makes me question whether our process assumptions still make sense in 2026.
+
+I'm not saying agile practices are useless — they probably help in some environments.
+
+But I'm increasingly skeptical about how much of it is actually necessary.
+
+Curious about other people's experience.
+
+Have you ever worked in a team with minimal process? Did it work or completely fall apart?
+
+COMMENTS:
+[score: 95] Sounds like something that would work for a small team rather than a large company
+
+[score: 38] Sounds like your very own agile approach to it.
+As the manifesto states, the process isn't that important, the people are. 
+
+And if it works for you, then hey, thumbs up. 
+
+But it heavily depends on the team members abilities to communicate openly and find common grounds when it comes to designing and implementing stuff, if such a minimal approach has a chance to succeed. 
+
+If you have a bunch of wizards that can't agree on shit then you'll need a stricter approach to it of course, discussing priorities, issues, put the focus on the tasks at hand etc.
+
+Had both. And the better the team cooperated and communicated without any enforced meetings etc the less strict the process had to be.
+
+[score: 21] A team of 200 developers have one meeting every three months?!
+
+[score: 17] When I started working 15 years ago, there was no Agile / Standups / Story points in my company and everything was working fine.
+
+Agile is BULLSHIT. It is a tool to micromanage teams. It has NEVER been otherwise. Do you seriously think people who have a MD or a PhD need to stand up every fucking day to explain things that no one gives a shit about? Gimme a break.
+
+[score: 15] I think stand ups and story pointing is kind of outdated at this point but the more important aspect is how your team is slicing stories/tasks. I’ve seen teams where a developer will just have one story that acts like a placeholder for the whole giant feature/project they’re working on and I think that’s a terrible idea. You need the appropriate level of granularity for your tasks so that they can be worked concurrently, tested and deployed independently, etc.
+
+[score: 13] >Standups and all that is around it is for management, not developers.
+
+This is not true:  stand-ups are for the team, to unblock each other, to keep others aware of progress if they’re waiting on your dependency. It’s a smell, a very common one, if the stand-up turns into a status meeting.   
+When my team started mobbing, we removed stand-ups, too, as they no longer provided any value.
+
+[score: 12] It was a mid-sized product company with around 200 people in development
+
+[score: 11] You stopped doing scrum and started doing agile. Read the agile manifesto. Scrum is a plague.
+
+[score: 9] Isn’t that effectively Kanban?
+
+[score: 8] I've seen teams claim they don't need 'all those useless meetings' but have a host of problems because they weren't doing what the meetings force them to do. It's not that the meetings are necessary, it's that the meetings force teams to do things that teams need to do but many teams don't do on their own. Though I haven't seen a team yet that doesn't run into at least some of the common problems without at least relaxed versions of these meetings, I have no doubt it's possible.
+
+[score: 8] Anecdotal. I would really like to see legitimate study around this.
+
+[score: 6] Wrong. Everything in scrum is for operations and not for management. And agile specifically says that you cannot actually estimate. Agile was "invented" because estimates don't make sense because there are too many unknown.
+
+[score: 5] We do daily updates. In scrum world, it's stand-ups. In our world, we have 7+1 contract designer distributed across the globe. It's nice to see what folks have done or planning to do, if something is blocked, if someone is waiting for PRs, etc. it's async though, so it's just a channel in slack. 
+
+We don't have formal retros. Why? We are a culture that doesn't wait to bring up issues. Something not working right? We bring it up immediately. Something we can do better? Bring it up immediately. Something that we like? We promote it and wax poetic sonnets about it. 
+
+We got rid of all meetings except a monthly All Hands. This serves as our review. What did we ship, new customers, revenue, active users, all the metric changes month to month. Everyone gets their own slide to bring up whatever they want. Most of us use it as a monthly retro to recap. We also do demos in that meeting. It's maybe an hour, sometimes two depending on how much stuff we have. 
+
+It's usually the second Friday of the month, but the time changes so that the same person isn't inconvenienced every month. I've had to wake up as early as 6am for the meeting, and the opposite end, someone is logging on at 8pm for the meeting. It's not the worst. 
+
+We don't do do sprints. We ship multiple times a day. I think every merge to main triggers a prod release, at least depending on the package/app (monorepo). We lean heavily on automated CI/CD pipelines. I spent my December before the holiday break just improving our actions and workflows to save a couple minutes per PR. 
+
+We don't have a dedicated QA team. We're all engineers. Even the CEO and CTO write code. We write our own test cases. We do manual testing as part of the code review process. Code may be clean, but if it doesn't work, the PR doesn't get approved. 
+
+We've never done story points or estimates. If it's a big effort, you can usually tell based on the number of sub-tasks associated to it.
+
+[score: 5] Did you write this with AI too? Bc the writing voice sure sounds like it
+
+[score: 5] I struggle to understand why a team needs to wait for a defined meeting in the day to talk to each other, if that’s what it’s for.
+
+[score: 4] Give me Waterfall, or give me death! I wasted so much time in daily standups, pointless sprints, etc that I became ambivalent to the project I was working on. Project timelines were thrown out the window because "this new sprint takes precedent" without proper research/investigation of the problem/proposed solution.
+
+[score: 3] Agile isn’t bullshit, scrum is and most of the things they stopped are scrum.
+
+[score: 3] We also do not do standups, story points and retros. No sprints either. We got systems model which generates specification against which we must align our product. Standard gap analysis and task creation to eliminate the gap. Then developers are off doing the tasks. Super easy process. Everyone can stay focused and do not need to bother with someone else's work. We "retro" as we come across issues to ensure we maintain the capability of doing the tasks. Before specification gets pushed out, we have had multiple technical solution meetings (as is part of the system modeling process) to ensure the principle solution is viable for implementation and there is a possibility to develop a technical solution. Sometimes it changes when we have underestimated some technical challenges which prompts a change to a system model and re-doing some parts but mostly not an issue.
+
+[score: 3] The key isn't about having or not having processes - it's about team maturity. Small, experienced teams with clear goals often self-organize naturally. But try this with 50+ devs or junior teams, and you'll quickly see why structure matters. The real question is finding the minimum viable process for your specific context. Some teams thrive with daily syncs, others work fine with async updates.
+
+[score: 3] I’ve seen both extremes.
+
+In small teams with experienced engineers and clear goals, you can often remove a lot of ceremony and nothing breaks. People communicate naturally and the system keeps moving.
+
+But in larger teams or organizations with less alignment, those processes start acting more like guardrails than productivity tools. They’re not always efficient, but they create shared visibility and coordination.
+
+So a lot of these practices feel unnecessary when a team is healthy and autonomous, but they become more valuable when scale and communication overhead increase.
+
+The tricky part is that most companies apply the same process template everywhere, regardless of team maturity.

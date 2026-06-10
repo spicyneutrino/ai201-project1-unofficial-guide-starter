@@ -1,0 +1,332 @@
+[
+  {
+    "num": 1,
+    "question": "What do students recommend for getting a software engineering internship with no prior experience?",
+    "fixed": {
+      "chunks": [
+        [
+          "csMajors",
+          "Sophomore with no experience \u2014 how do I land my first internship?",
+          0.03333333333333333
+        ],
+        [
+          "internships",
+          "No experience, no connections \u2014 how I got my first internship",
+          0.03149801587301587
+        ],
+        [
+          "cscareerquestions",
+          "How I got my first SWE internship with no prior experience",
+          0.016492856083533382
+        ],
+        [
+          "csMajors",
+          "Is 75 LeetCode problems enough for internship interviews?",
+          0.016492856083533382
+        ],
+        [
+          "internships",
+          "How hard is it to get a return offer after summer internship?",
+          0.016228445718647077
+        ]
+      ],
+      "answer": "Students recommend the following for getting a software engineering internship with no prior experience: \n- Building personal projects, with a GitHub profile having 2-3 real projects being essential.\n- Applying early and to a large number of companies (100+), rather than focusing solely on top companies like FAANG.\n- Not ignoring smaller companies and startups, as they may have a higher likelihood of hiring for first internships.\n- Cold emailing recruiters and alumni, as well as utilizing referrals, which can significantly improve chances of getting hired.\n- Focusing on understanding patterns and solving a reasonable number of LeetCode problems (around 100-150 medium problems).\n\nSources: Sophomore with no experience \u2014 how do I land my first internship? (r/csMajors), No experience, no connections \u2014 how I got my first internship (r/internships), How I got my first SWE internship with no prior experience (r/cscareerquestions)",
+      "sources": "Sources: [Sophomore with no experience \u2014 how do I land my first internship?] (r/csMajors), [No experience, no connections \u2014 how I got my first internship] (r/internships), [How I got my first SWE internship with no prior experience] (r/cscareerquestions), [Is 75 LeetCode problems enough for internship interviews?] (r/csMajors), [How hard is it to get a return offer after summer internship?] (r/internships)"
+    },
+    "paragraph": {
+      "chunks": [
+        [
+          "cscareerquestions",
+          "How I got my first SWE internship with no prior experience",
+          0.03279569892473118
+        ],
+        [
+          "internships",
+          "How hard is it to get a return offer after summer internship?",
+          0.016766080127249228
+        ],
+        [
+          "csMajors",
+          "Is 75 LeetCode problems enough for internship interviews?",
+          0.016492856083533382
+        ],
+        [
+          "csMajors",
+          "Sophomore with no experience \u2014 how do I land my first internship?",
+          0.016492856083533382
+        ],
+        [
+          "csMajors",
+          "Is 75 LeetCode problems enough for internship interviews?",
+          0.016228445718647077
+        ]
+      ],
+      "answer": "According to the community advice from r/csMajors, students recommend the following for getting a software engineering internship with no prior experience: \n- Personal projects are more important than GPA for the first internship\n- Apply early and apply to many places\n- Don't ignore smaller companies\n- Having a GitHub profile with 2-3 real projects is essential.\n\nSources: Sophomore with no experience \u2014 how do I land my first internship? (r/csMajors), How I got my first SWE internship with no prior experience (r/cscareerquestions)",
+      "sources": "Sources: [How I got my first SWE internship with no prior experience] (r/cscareerquestions), [How hard is it to get a return offer after summer internship?] (r/internships), [Is 75 LeetCode problems enough for internship interviews?] (r/csMajors), [Sophomore with no experience \u2014 how do I land my first internship?] (r/csMajors)"
+    }
+  },
+  {
+    "num": 2,
+    "question": "How many LeetCode problems should I solve before applying for internships at large tech companies?",
+    "fixed": {
+      "chunks": [
+        [
+          "csMajors",
+          "Is 75 LeetCode problems enough for internship interviews?",
+          0.03333333333333333
+        ],
+        [
+          "leetcode",
+          "Internship prep: how many problems before applying?",
+          0.03278688524590164
+        ],
+        [
+          "leetcode",
+          "Internship prep: how many problems before applying?",
+          0.03225806451612903
+        ],
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.015972429333598433
+        ],
+        [
+          "internships",
+          "No experience, no connections \u2014 how I got my first internship",
+          0.015972429333598433
+        ]
+      ],
+      "answer": "According to the community, it's recommended to solve 100-150 medium LeetCode problems covering all major patterns before onsite interviews. However, you can start applying earlier and continue grinding while you wait for OAs. Some users suggest that solving 75 problems can be enough to start applying, but it's essential to focus on understanding patterns rather than just the count of problems solved.\n\nSources: Is 75 LeetCode problems enough for internship interviews? (r/csMajors), Internship prep: how many problems before applying? (r/leetcode)",
+      "sources": "Sources: [Is 75 LeetCode problems enough for internship interviews?] (r/csMajors), [Internship prep: how many problems before applying?] (r/leetcode), [What GPA do you need for CS internships at top companies?] (r/cscareerquestions), [No experience, no connections \u2014 how I got my first internship] (r/internships)"
+    },
+    "paragraph": {
+      "chunks": [
+        [
+          "leetcode",
+          "Internship prep: how many problems before applying?",
+          0.03278688524590164
+        ],
+        [
+          "cscareerquestions",
+          "How many LeetCode problems do you actually need for FAANG internships?",
+          0.03229166666666666
+        ],
+        [
+          "csMajors",
+          "Is 75 LeetCode problems enough for internship interviews?",
+          0.016766080127249228
+        ],
+        [
+          "leetcode",
+          "Grind plan for internship season \u2014 12 week schedule",
+          0.016228445718647077
+        ],
+        [
+          "cscareerquestions",
+          "How I got my first SWE internship with no prior experience",
+          0.016228445718647077
+        ]
+      ],
+      "answer": "Based on the provided context, it is recommended to solve around 100-150 medium LeetCode problems, focusing on understanding patterns, before applying for internships at large tech companies. This range is commonly cited as covering most internship OA and interview questions. Solving 120 medium problems was mentioned as sufficient for a big tech company internship, and a grind plan targeting 120-150 problems resulted in 4 internship offers.\n\nSources: Internship prep: how many problems before applying? (r/leetcode), How many LeetCode problems do you actually need for FAANG internships? (r/cscareerquestions), Is 75 LeetCode problems enough for internship interviews? (r/csMajors), Grind plan for internship season \u2014 12 week schedule (r/leetcode)",
+      "sources": "Sources: [Internship prep: how many problems before applying?] (r/leetcode), [How many LeetCode problems do you actually need for FAANG internships?] (r/cscareerquestions), [Is 75 LeetCode problems enough for internship interviews?] (r/csMajors), [Grind plan for internship season \u2014 12 week schedule] (r/leetcode), [How I got my first SWE internship with no prior experience] (r/cscareerquestions)"
+    }
+  },
+  {
+    "num": 3,
+    "question": "What GPA is typically considered competitive for CS internships at top tech companies?",
+    "fixed": {
+      "chunks": [
+        [
+          "internships",
+          "GPA requirements for internship applications \u2014 data from 50 companies",
+          0.032539682539682535
+        ],
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.03252247488101534
+        ],
+        [
+          "csMajors",
+          "Sophomore with no experience \u2014 how do I land my first internship?",
+          0.03252247488101534
+        ],
+        [
+          "softwareengineering",
+          "Do companies still filter by GPA for internships?",
+          0.03229166666666666
+        ],
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.03149801587301587
+        ]
+      ],
+      "answer": "A competitive GPA for CS internships at top tech companies is typically considered to be 3.5 or higher. This is evident from multiple sources, including Document 1, which states that FAANG and similar companies almost always want 3.5+, and Document 2, which mentions that 3.5+ is competitive for most large tech companies. Additionally, comments from various users across the documents, such as [score: 289] and [score: 167], also support this claim, stating that 3.5+ is the safe zone for big tech resume screens.\n\nSources: GPA requirements for internship applications (r/internships), What GPA do you need for CS internships at top companies? (r/cscareerquestions), Do companies still filter by GPA for internships? (r/softwareengineering)",
+      "sources": "Sources: [GPA requirements for internship applications \u2014 data from 50 companies] (r/internships), [What GPA do you need for CS internships at top companies?] (r/cscareerquestions), [Sophomore with no experience \u2014 how do I land my first internship?] (r/csMajors), [Do companies still filter by GPA for internships?] (r/softwareengineering)"
+    },
+    "paragraph": {
+      "chunks": [
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.03306010928961749
+        ],
+        [
+          "softwareengineering",
+          "Do companies still filter by GPA for internships?",
+          0.016766080127249228
+        ],
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.016492856083533382
+        ],
+        [
+          "csMajors",
+          "Sophomore with no experience \u2014 how do I land my first internship?",
+          0.016228445718647077
+        ],
+        [
+          "cscareerquestions",
+          "How I got my first SWE internship with no prior experience",
+          0.016228445718647077
+        ]
+      ],
+      "answer": "A GPA of 3.5 or higher is typically considered competitive for CS internships at top tech companies. Some companies may even screen out candidates with a GPA below 3.0 at the resume stage.\n\nSources: What GPA do you need for CS internships at top companies? (r/cscareerquestions), Do companies still filter by GPA for internships? (r/softwareengineering)",
+      "sources": "Sources: [What GPA do you need for CS internships at top companies?] (r/cscareerquestions), [Do companies still filter by GPA for internships?] (r/softwareengineering), [Sophomore with no experience \u2014 how do I land my first internship?] (r/csMajors), [How I got my first SWE internship with no prior experience] (r/cscareerquestions)"
+    }
+  },
+  {
+    "num": 4,
+    "question": "How should I prepare for behavioral interviews at tech companies?",
+    "fixed": {
+      "chunks": [
+        [
+          "csMajors",
+          "How to prepare for behavioral interviews?",
+          0.03306010928961749
+        ],
+        [
+          "softwareengineering",
+          "STAR method for behavioral interviews \u2014 examples that work",
+          0.03252247488101534
+        ],
+        [
+          "leetcode",
+          "Internship prep: how many problems before applying?",
+          0.03149801587301587
+        ],
+        [
+          "csMajors",
+          "Is 75 LeetCode problems enough for internship interviews?",
+          0.016766080127249228
+        ],
+        [
+          "cscareerquestions",
+          "Behavioral interview prep guide for new grads and interns",
+          0.016228445718647077
+        ]
+      ],
+      "answer": "To prepare for behavioral interviews at tech companies, you should use the STAR format: Situation, Task, Action, Result. Prepare 5-6 stories that work for multiple questions, focusing on common themes such as conflict, failure, leadership, and ambiguity. It's essential to practice out loud and have specific metrics when possible. Keep each story 2-3 minutes long. \n\nSome recommended story topics include: a conflict with a teammate, a time you failed, leading a project, handling ambiguity, and leading without authority. It's also crucial to practice your stories until they feel natural and to research company values to tailor your stories accordingly.\n\nSources: How to prepare for behavioral interviews? (r/csMajors), STAR method for behavioral interviews \u2014 examples that work (r/softwareengineering), Behavioral interview prep guide for new grads and interns (r/cscareerquestions)",
+      "sources": "Sources: [How to prepare for behavioral interviews?] (r/csMajors), [STAR method for behavioral interviews \u2014 examples that work] (r/softwareengineering), [Internship prep: how many problems before applying?] (r/leetcode), [Is 75 LeetCode problems enough for internship interviews?] (r/csMajors), [Behavioral interview prep guide for new grads and interns] (r/cscareerquestions)"
+    },
+    "paragraph": {
+      "chunks": [
+        [
+          "leetcode",
+          "Internship prep: how many problems before applying?",
+          0.03229166666666666
+        ],
+        [
+          "cscareerquestions",
+          "How many LeetCode problems do you actually need for FAANG internships?",
+          0.032266458495966696
+        ],
+        [
+          "leetcode",
+          "Internship prep: how many problems before applying?",
+          0.016766080127249228
+        ],
+        [
+          "cscareerquestions",
+          "Behavioral interview prep guide for new grads and interns",
+          0.016492856083533382
+        ],
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.016228445718647077
+        ]
+      ],
+      "answer": "To prepare for behavioral interviews at tech companies, you should use the STAR format for every answer, prepare 5-6 versatile stories, and practice with a friend or record yourself. It's also important to research company values and tailor your stories to them. Common questions in behavioral interviews often map to topics such as teamwork, conflict, failure, leadership, and time pressure.\n\nSources: Behavioral interview prep guide for new grads and interns (r/cscareerquestions)",
+      "sources": "Sources: [Internship prep: how many problems before applying?] (r/leetcode), [How many LeetCode problems do you actually need for FAANG internships?] (r/cscareerquestions), [Behavioral interview prep guide for new grads and interns] (r/cscareerquestions), [What GPA do you need for CS internships at top companies?] (r/cscareerquestions)"
+    }
+  },
+  {
+    "num": 5,
+    "question": "What do students say about the difficulty of getting a return offer after a summer internship?",
+    "fixed": {
+      "chunks": [
+        [
+          "internships",
+          "How hard is it to get a return offer after summer internship?",
+          0.03306010928961749
+        ],
+        [
+          "internships",
+          "No experience, no connections \u2014 how I got my first internship",
+          0.03279569892473118
+        ],
+        [
+          "softwareengineering",
+          "Tips for getting a return offer \u2014 from someone who didn't get one",
+          0.032018442622950824
+        ],
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.016228445718647077
+        ],
+        [
+          "internships",
+          "No experience, no connections \u2014 how I got my first internship",
+          0.015972429333598433
+        ]
+      ],
+      "answer": "Students mention that getting a return offer after a summer internship can be challenging, but certain factors can increase the chances of receiving one. These factors include delivering the intern project on time, building relationships with the team, communicating blockers early, doing assigned work well, and asking for feedback mid-internship. Return offer rates vary by company and team, with some teams giving 90% return offers and others giving 50%. \n\nSources: How hard is it to get a return offer after summer internship? (r/internships), Tips for getting a return offer \u2014 from someone who didn't get one (r/softwareengineering)",
+      "sources": "Sources: [How hard is it to get a return offer after summer internship?] (r/internships), [No experience, no connections \u2014 how I got my first internship] (r/internships), [Tips for getting a return offer \u2014 from someone who didn't get one] (r/softwareengineering), [What GPA do you need for CS internships at top companies?] (r/cscareerquestions)"
+    },
+    "paragraph": {
+      "chunks": [
+        [
+          "internships",
+          "How hard is it to get a return offer after summer internship?",
+          0.03306010928961749
+        ],
+        [
+          "internships",
+          "No experience, no connections \u2014 how I got my first internship",
+          0.016766080127249228
+        ],
+        [
+          "internships",
+          "No experience, no connections \u2014 how I got my first internship",
+          0.016492856083533382
+        ],
+        [
+          "leetcode",
+          "Internship prep: how many problems before applying?",
+          0.016228445718647077
+        ],
+        [
+          "cscareerquestions",
+          "What GPA do you need for CS internships at top companies?",
+          0.016228445718647077
+        ]
+      ],
+      "answer": "Students say that return offer rates vary a lot by company and team, with some teams giving 90% return offers and others giving 50%. \n\nSources: How hard is it to get a return offer after summer internship? (r/internships)",
+      "sources": "Sources: [How hard is it to get a return offer after summer internship?] (r/internships), [No experience, no connections \u2014 how I got my first internship] (r/internships), [Internship prep: how many problems before applying?] (r/leetcode), [What GPA do you need for CS internships at top companies?] (r/cscareerquestions)"
+    }
+  }
+]

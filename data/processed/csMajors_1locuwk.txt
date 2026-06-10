@@ -1,0 +1,112 @@
+SUBREDDIT: csMajors
+POST_ID: 1locuwk
+POST_TITLE: Can't stop tearing up, got my first FAANG offer from Apple
+POST_SCORE: 5752
+POST_URL: https://www.reddit.com/r/csMajors/comments/1locuwk/
+POST_DATE: 2025-06-30
+
+POST:
+I woke up and saw this in my inbox. I cannot believe what just happened. I was at Morgan Stanley as a new grad and recently got laid off. I've been searching for a new job since then.
+
+Apple suddenly came through last minute and I cannot believe my luck. The whole process took many months with various companies and it was a rejection after rejection.
+
+I come from the midwest, nobody in my family even knows what CS is. I don't think they have even heard about ChatGPT. The school I went to isn't an ivy or a top 10, I'm from a college you've probably never even heard of.
+
+And I just got into Apple...
+
+All this to say, I have zero high level connections in the industry or any insider info about how to land in FAANG. I just grinded nonstop for many months, didn't give up, and with a little bit of luck, things worked out at the end. If you're in the same position, keep going. It's not you, it's the market, you only need one yes, and with time, you'll get it.
+
+My Preparation Stack: Apple is very domain specific and I work in a niche finance space. I'm assuming that is what gave me the edge since the team was hiring specifically for my skill set. Interview preparation consisted of 450+ LC questions completed with a split of 60% med, 30% easy, and 10% hard, Blind 75, solved past interview questions from onsitesfyi. Went through DDIA and CLRS. Lots and lots of mocks with strangers on Pramp and with friends. On Pramp, just be careful with the type of people you are practicing with, some can be really, really bad. That's really it.
+
+Feel free to DM with any questions, would be happy to help others now that I've seen the process.
+
+Hope this helps!
+
+TC: $160k  
+New TC: $250k
+
+https://preview.redd.it/9nvcqkmmh3af1.jpg?width=1200&format=pjpg&auto=webp&s=1e9ff023d54f1c710d1bcc103f87b0734348dffc
+
+COMMENTS:
+[score: 688] Congrats man, it is refreshing to see a success story here every now and then. What's the hardest or one of the hardest questions they asked you to solve during the interview process?
+
+[score: 661] https://preview.redd.it/db185qdrj3af1.jpeg?width=640&format=pjpg&auto=webp&s=7bd59dff50c22288c724cc1d4e7a5b1980ba1c77
+
+[score: 344] It was a dynamic programming problem, managed to get it 80% of it correctly, and explained out of intuition how to solve the rest. It worked lol
+
+[score: 149] Congrats ! You did & put in the work, don’t let FAANG define your life though. Appreciate it for what it is, good company benefits/salary so you can grow sustain yourself & feed into the things outside of work that make you happy.
+
+[score: 131] I often use the CS subreddits as a litmus test for the health of the general industry. It’s not accurate, as it’s just anecdata and not large-scale, but it does tend to give me some useful info. 
+
+Yes, Apple seems to be hiring. Other companies doing layoffs. I’m curious as to what OP will be working on. 
+
+Judging by the high interest rates and moderately ok CPI, and normal inflation compared to 2021, I’d guess it’s still very competitive but that the devs who have been unemployed for a while are out of the larger competitive pool, so if you’re still in the game then maybe now things will start to ease up. Since Apple is a FAANG and therefore a trend-setter, it’s unclear if Meta layoffs (combined with apparent hirings[?]) will offset anything.
+
+[score: 72] *♪ Celebrate good times, come on ♪*
+
+[score: 63] Thank you. Absolutely, I'm trying not to get it too much into my head.
+
+It all just feels so surreal after all this hard work, I'm sure it'll just fade away in a few months
+
+[score: 57] Congrats! I was on the same boat. Got fired from a shitty abusive start up and thought life was over.
+
+1 month later I got into 2 FAANGs! Life feels like a dream ever since.
+
+[score: 50] So good man! Congratulations! Proud of you!
+
+[score: 49] Would you be cool with DMing what it was and what the interview was like? I've been trying to practice more with how crazy everything has been
+
+Edit: OP went AWOL, so they either dgaf or this post is a lie
+
+[score: 32] 450 LC dios mios
+
+[score: 23] Why are the devs that have been unemployed for a while out of the competitive pool?
+
+[score: 15] Leetcode for a year straight.
+
+[score: 11] Op how much experience do you have? (Unclear on “joined Ms as a new grad and recently laid off”). Congrats!
+
+[score: 10] Congrats 👏
+
+[score: 10] Congrats man! You deserve it!!!
+
+[score: 8] Tremendous effort on staying focused, determined, and persistent.  
+
+You are on the right side of the door, now go kick tail and take names and show them what you can do!!!!
+
+[score: 8] congrats man.
+
+[score: 7] Seriously though omg
+
+[score: 7] Congrats! What an inspiration. Im starting CS this fall and hoping to be at a Faang in 4 years 🙏. Thank you and enjoy your $250k comp
+
+[score: 6] His last company probably has some name recognition which probably helped but I’m also curious what OP specifically did besides that and leetcode
+
+[score: 5] Love hearing stories like this. Congratulations!! Go do great things.
+
+[score: 5] This gives me a lot of hope. Congratulations. 450+ questions you’ve definitely earned it’
+
+[score: 4] Yeah just when you taste the needy greedy of FAANG
+
+[score: 4] What did your prep look like?
+
+[score: 4] You sound very nice and humble, happy for you and congrats!!
+
+[score: 4] Congrats OP! I was in the same boat, bounced back somehow but nowhere near the level as yours. Would you mind sharing which kind of SWE role it that?
+
+[score: 4] Why copy paste this month+ old post from blind?   
+[https://www.teamblind.com/post/cant-stop-tearing-up-got-my-first-faang-offer-from-apple-7xjv6ct6](https://www.teamblind.com/post/cant-stop-tearing-up-got-my-first-faang-offer-from-apple-7xjv6ct6)
+
+[score: 3] I was in a similar startup lol
+
+[score: 3] Lol I'm in the same boat as you. Just got laid off from a startup and genuinely feels like life is over.
+
+[score: 3] I have a question. Do you do side projects and other things or just leetcode? I see a lot of success stories about people grinding leetcode and systems design for interviews but I'm confused how to get the interview in the first place?
+
+Is this lots of side projects or open project works or just your last job?
+
+Cheers! And CONGRATS
+
+[score: 3] don’t be shy, show us the resume you used to apply!
+
+[score: 3] you were already at morgan stanley and then tear up at getting into apple lmao what

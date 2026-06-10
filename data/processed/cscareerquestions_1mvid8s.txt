@@ -1,0 +1,226 @@
+SUBREDDIT: cscareerquestions
+POST_ID: 1mvid8s
+POST_TITLE: [Breaking] AWS Cloud Chief says "replacing junior employees with AI is one of the dumbest things I've ever heard". The tide is shifting back.
+POST_SCORE: 6899
+POST_URL: https://www.reddit.com/r/cscareerquestions/comments/1mvid8s/
+POST_DATE: 2025-08-20
+
+POST:
+>Matt Garman, Amazon's cloud boss, has a warning for business leaders rushing to swap workers for AI: Don't ditch your junior employees.  
+...  
+The Amazon Web Services CEO said on an episode of the "Matthew Berman" podcast published Tuesday that replacing entry-level staff with AI tools is "one of the dumbest things I've ever heard."  
+...  
+"They're probably the least expensive employees you have. They're the most leaned into your AI tools," he said.  
+...  
+"How's that going to work when you go like 10 years in the future and you have no one that has built up or learned anything?"
+
+[https://www.businessinsider.com/amazon-cloud-chief-replacing-junior-staff-ai-matt-garman-2025-8](https://www.businessinsider.com/amazon-cloud-chief-replacing-junior-staff-ai-matt-garman-2025-8)
+
+Slowly, day by day, the AI hype is dying out as companies realize it's basically just a faster google search.
+
+What are your thoughts?
+
+COMMENTS:
+[score: 1727] Well the push wasn't coming from the people who hire and work with the juniors. They knew it was a terrible idea already.
+
+[score: 524] Most of the layoffs at the big tech firms arent em getting rid of people because ai does their jobs. It's budgets from other part of the business getting redirected to AI.
+
+[score: 481] Yeah. It is those in charge of hiring trying this. 
+
+Anyone that used AI knows it is very flawed and it is not a replacement.
+
+[score: 277] CEOs will foam at the mouth for anything they think will reduce labor costs. We always need to examine claims like these with a grain of salt. I'm glad there are people in leadership that are pushing back.
+
+[score: 242] I read an article about the response to GPT-5 which said that despite $3tr in investments, not a single AI firm has turned a profit.
+
+Read that again. Not ONE of these companies has been profitable so far.
+
+I agree that the bubble is deflating. It’s becoming clear that the AI hype was just a marketing campaign to sell Search + autocorrect.
+
+[score: 176] AWS' whole business model is to take junior professionals and throw them at the wall like eggs until some bounce off without breaking
+
+[score: 170] His boss is mostly paid in stock, and needs to spout such lies to pump up the stock price and thus his own compensation.
+
+[score: 166] Big tech is pouring huge money into GPUs, data centers, and power, and cutting staff is the fastest way to balance the books and keep investors happy while they double down on AI. But if their big bets on AI revenue don’t pan out, the whole thing risks turning into a bubble that could crash hard. I personally think we’re already in a bubble.
+
+[score: 142] Doesn't this contradict what his boss (Jassey) was saying a couple weeks/months ago?
+
+[score: 93] I mean, uber took almost a decade to turn a profit, now its a profitable and thriving business, same as Youtube.
+
+Basically all companies in all industries (but specially in tech) suck in investment at first, it’s not until they have a great product with market control that they start focusing on profit.
+
+[score: 89] >But if their big bets on AI revenue don’t pan out, the whole thing risks turning into a bubble that could crash hard. 
+
+Don't worry, they would just nationalize losses.
+
+[score: 79] That's just how blitz scaling works, they pour any potential profit into R&D so they can get a large market share and then they'll start price gouging to get full profit. Amazon, Netflix, Facebook, Disney+ and Uber all did it and I think all of them besides maybe Uber is profitable, though who knows who in this race will become profitable later.
+
+[score: 78] That's some mad survivor bias though.  It feels exactly like Silicon Valley right now.
+
+[score: 72] I'm at Amazon, and it is trash, but it's no worse than other tools. AI just isn't good enough, especially when you have a heavy reliance on proprietary tooling.
+
+[score: 69] From what I've heard from current Amazon devs, Amazon has a proprietary AI they have you use and it's trash. This can be interpreted many ways, but their takeaway is that they don't feel threatened by being replaced at all.
+
+[score: 62] I mean most big tech employees are paid stock. The higher in the company you go, the more your pay ratio becomes stock heavy.
+
+This guy also is paid heavily in stock at his level.
+
+[score: 60] Still scrambles the egg that don’t crack. Be careful with your own mental health there.
+
+[score: 52] Junior devs are accountable for their work. LLMs are not.
+
+[score: 51] Me and my whole team, juniors and seniors - I was a principal - got replaced by AI: Actual Indians.
+
+[score: 42] What tide? The only people saying AI would fully replace junior engineers were VCs and AI startup founders looking to pump their market value.
+
+[score: 34] It's arguable that it's as good as a junior... but it's a junior I have to babysit all day!
+
+I can send a junior off to do a task with some general rules, and tell him to think through the trade-offs, and then we'll meet again at 3PM to discuss.
+
+[score: 32] This is the difference in having a leader with an engineering background in charge of a tech company instead of management consultant in charge of a tech company (Pichai, Jassy)
+
+[score: 26] And when a junior gets something wrong, there’s a reasonable chance (especially if you go through how and why) that they won’t get it wrong the next time
+
+[score: 24] Matt Garman isn't an engineer. He's a sales guy that a year ago was saying the exact opposite. He's also Jassy's right-hand man...
+
+[score: 24] I’d say at least a third of the people who hate dealing with junior devs are horrible people. 
+
+I would like to say it’s higher, but there are a lot of devs who just don’t understand how to “deal” with junior devs. You have to be able to concretize your own thinking, which is uncomfortable for many people. 
+
+But “uncomfortable” is where self improvement lives. When we don’t have new people to defend ideas to we get Echo Chambers. And I wonder sometime how much of death spiraling in struggling companies is seeing people leaving as a way to decrease expenses instead of as a way to bring in new ideas without raising expenses. 
+
+Even if your company is doing shitty, might still be good to bring in one new person for every two that leave. AI is an arrow pointed in the opposite direction.
+
+[score: 24] There has never been a tide for not hiring juniors *because of AI*. Anyone who believed this is not part of the industry and/or stupid.
+
+[score: 23] That PoS at OpenAI already admitted that we’re in one
+
+[score: 23] Uber too is profitable now.
+
+[score: 22] Q Developer is pretty bad, but it’s also not significantly worse than something like Copilot or Claude Code, they’re all pretty terrible. 
+
+Amazon like every big tech company also uses tons of proprietary tools and libraries that the AI are hopeless against.
+
+[score: 20] The stock market gains attributed to hype over AI already dwarf  the dot com bubble.
+
+Nvidia alone is up 1450% since late October 2022.  That's 4 trillion dollars
+
+[score: 17] AI for codebases works best for those that can understand its outputs!
+
+[score: 15] +1, as someone who up until very recently worked at Amazon. It’s just Claude but trained on the internal codebase, wikis, etc.
+
+And Q is available via AWS
+
+[score: 15] It would just shift the burden of entry for workers. Now instead of a college degree you might need more training to be a "mid-senior" level of competency before you're able to get hired.
+
+[score: 15] So a profession for rich people or children of parents with owned homes who can allow them to delay their income by another half decade or a decade.
+
+[score: 14] The tide can't shift "back" because it never actually shifted. No one anywhere actually rolled out AI devs in production yet, it isn't even possible. The corps have simply been doing layoffs and offshoring while the clickbait tech media constantly refers to "AI" being the culprit based on nothing.
+
+[score: 12] There are a lot of executives and management who were saying this as well. They were mostly just saying the equivalent of “me too,” but it was out there. AI had been very compelling for non-technical people too. My assumption is that it was a lot easier to grasp and then extrapolate to places it can’t go yet, but they can fantasize.
+
+[score: 11] Middle management is probably the place I think AI will hit hardest.
+
+The entire job is to intake internal information communications and reports and distill it for those up the chain and pass tasks back down.  
+
+The worst LLM I have ever used would do a better job organizing a team as a neutral voice in a team group chat than any ego driven middle manager I have ever met.
+
+[score: 11] Why does everything need to be all or nothing? It can be overhyped while at the same time posing some levels of threat to (primarily) entry level workers
+
+[score: 11] Yeah more like doctors, essentially
+
+[score: 10] Flying blind with AI coding agents is like the trucking industry going all in on autonomous vehicles driving their containers throughout the US…but worse.
+
+[score: 9] the only area with bubble is again VC land investing in high valuation startups. 
+
+main street and most companies are not investing in that.
+
+[score: 9] Anybody with a brain knows that AI isnt replacing engineers. Jarvis, which is a fictional super AI assistant, still needs Iron Man to instruct it.
+
+Manual coding for trivial tasks that juniors usually do still needs to be told to do it.
+
+[score: 8] Scrambles and slightly fries them from the impact.
+
+[score: 8] You think Matt Garman isn't?
+
+[score: 8] Stop disturbing my tech super race narrative! /s
+
+[score: 8] >   Slowly, day by day, the AI hype is dying out as companies realize it's basically just a faster google search.
+
+I’m sorry but this is ignorant. AI hype should die and it’s a ridiculous bubble since everyone and their mom are trying to integrate AI just to say they have AI in their application whether it’s actually beneficial or just superficial.
+
+That said, if you guys have not got a chance to utilize an AI agent especially in an enterprise setting then you’ve only broken the surface of utilizing AI. As a professional with 4 years under my belt, agents absolutely streamline a lot of my dev time and allow me to think more about the solution. Since you don’t have to worry about actually developing the code, you can spend more time pseudo coding the logic for the AI and make less mistakes along the way. The better you get at outlining the implementation, the better the output from the AI. 
+
+This isn’t just for backend either, for several of the finishing touches of my application which is releasing here soon for my organization I have utilized agent to create react components and pages just based off descriptions that took 30 seconds to type up. 
+
+I definitely don’t see AI taking jobs in mass but I do see how it is shifting the perspective, especially for organizations that are not in the tech space, for the need of juniors and instead empowering their devs with better tools.
+
+[score: 7] LLMs are not being pushed by anyone thinking about 10 years in the future. What happens after most of the content being used for training is itself AI-generated?
+
+[score: 7] Eh I doubt that, midlevel managers are often the people with the best holistic view of the entire project. Employees are task focused, upper management is high level focused, midlevel has a foot in both worlds. 
+
+It's the same reason why militaries these days target the NCO's as the most important part of their combat structure.
+
+There are definitely tasks that can be automated, like spitting out reports. But there are parts of work and upper management that can be automated as well. So it's not really that different. It's just that many dumb CEO's think they can cut out midlevel people because the CEO's have no idea how their company actually works.
+
+[score: 7] When did YouTube turn a profit? Alphabet has never mentioned this.
+
+[score: 7] Uber took almost a decade to turn a profit? 
+
+I’ve been buying human shit for the last 9 years which I then burn in my garden. It hasn’t turned a profit yet, but Uber took 10 years so I think I’m pretty close now 😎
+
+[score: 7] I disagree, someone's still got a fix that shit bug
+
+[score: 7] eh, most of the largest and best paying companies have culled their ranks and now you can get into AMZN and get 140k to live in seattle (hcol) ... it's nothing like it used to be even before the 'day in the life' bubble.  
+  
+From now on - CS and IT for the next 10 years -- will be a 'good job' but not a 'great work 7 years and be wealthy' job.
+
+[score: 7] C suite people are not known for their intelligence
+
+[score: 6] My father is upper level project manager. He is always telling how crazy good jira AI .  "If I was 15 years younger I would be very worry".  
+
+Create tickets , link them with other stuff and other teams stuff, create dashboard and reports. 
+
+I think a lot of the work the middle managers do is gonna be pushed down to tech leads and AI.
+
+[score: 6] He's pandering. When there's no juniors, they'll lean into outsourcing.
+
+[score: 6] Everyone on my team uses AI for development now.  It's definitely a highly valuable tool.  It doesn't replace anyone though. And certainly not juniors.
+
+It helps seniors and above the most in our org.  And it's definitely reduced the need to expand headcount.  But we've never laid anyone off because of it.  And I don't see much sign we ever will.
+
+[score: 5] Try telling that to r/singularity.
+
+[score: 5] mvp comment, also this is how you become a good engineer anyways. jump straight into the fire and never save anything for the way back
+
+[score: 5] I used first generation Q before I quit and maybe it's come a long way in the last 6 months (doubt) but tools like Roo and Cursor are light years far ahead from the dinosaur that is Q. It is a huge productivity booster in the hands of an experienced dev
+
+[score: 5] I use Q CLI daily at work and home and it's as good as any other tool (and far cheaper).
+
+[score: 5] PSA: exec-suite saying it's incredibly stupid doesn't mean the company isn't doing it
+
+[score: 5] > "faster"
+
+Idk my searches came up instantly before AI
+
+[score: 5] Everyone with a braincell knows that, but it'll still happen because the CEOs will get a hard on thinking about how much money they will save.
+
+And in 10 years they likely won't be CEOs of the company anymore or if they are they already got all the bonuses from the cost cutting they did.
+
+Then another CEO will have to deal with the fallout and get bonuses from fixing it.
+
+It's a win win for them.
+
+[score: 5] I work in DevOps, I use AI. AI is a tool I use, it’s google on steroids and it can save me time compiling and creating things. It 100% can’t do my job.
+
+Now the argument could be made- hey this tool allows your staff to be x% more efficient which will lighten the workload for your team….but so does google lol
+
+My company wouldn’t layoff staff cuz of StackOverflow or google search engine. Again it’s a tool, not a replacement
+
+[score: 4] I am increasingly thinking that big fads are cover for more nefarious things.  
+
+I think AI was just cover for an impending recession, outsourcing to India, and massive abuse of the H1B1 visas.
+
+[score: 3] That’s the problem. What they’re promising us they’re gonna build can’t be built from a PHYSICAL perspective. We don’t have access to the kind of power needed to fuel the data centers, nor can we manufacture chips fast enough or find enough people to maintain the data centers so that they don’t crash when Texas floods or whatever. They’re selling us magic beans, and the fallout is mass layoffs—for a product that “is totally coming”… just as soon as we figure out how to bend the laws of physics.
+
+The emperor has no clothes, but once again, the only ones who’ll lose everything when the bubble bursts will be you and me, not the guys who sold it to our bosses.

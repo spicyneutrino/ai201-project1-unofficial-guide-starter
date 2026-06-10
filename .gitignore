@@ -18,3 +18,11 @@ chroma/
 
 # macOS
 .DS_Store
+
+# Editor and internal dev files (not for submission)
+.cursor/
+AGENTS.md
+test.html
+
+# Intermediary test output
+eval/ui_playwright_results.json

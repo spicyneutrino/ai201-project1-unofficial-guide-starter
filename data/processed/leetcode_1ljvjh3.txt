@@ -1,0 +1,218 @@
+SUBREDDIT: leetcode
+POST_ID: 1ljvjh3
+POST_TITLE: Got dumped by GF of 4 years but got a Meta offer today
+POST_SCORE: 4485
+POST_URL: https://www.reddit.com/r/leetcode/comments/1ljvjh3/
+POST_DATE: 2025-06-25
+
+POST:
+I’m sitting here sipping on a gin and tonic reflecting on the last 5 months and I really couldn’t feel more fulfilled.
+
+I know a lot of ppl hate nowadays on “tech bro’s” who make grinding leetcode their life for the \*chance\* of cracking FAANG but the offer from Meta came through this afternoon and I literally cried real tears of relief/joy (not really sure what they were).
+
+It's been a really rough 6 months since going through the breakup with my girlfriend of 4 years and I don’t really have anyone to share this with so sharing it here instead.
+
+To make a long story short - my girlfriend and I met in college at a well known school in Illinois, we graduated together, lived together for 4 years, both got entry (low-paying) jobs around Chicago and after 3 years she decided she’d had enough. Citing my lack of ambition and dissimilar life goals to hers, but I suspect it was more like I wasn’t immediately able to provide the lifestyle she wanted which is fair.
+
+It was after she moved out that I started exploring the possibility of leaving Chicago and trying to get a job in one of the big tech hubs, I was targeting Seattle or the Bay Area. I reached out to some of my friends from college, one at Amazon and one at Meta and managed to get referrals and then initial calls at both companies. That’s when I seriously locked in. I couldn’t stand being in this empty apartment that I could no longer afford and really needed one of these 2 to work out.
+
+My job is 3 days a week in the office and on those 2 remote days for the last 6 months (as well as weekends) I basically did nothing other than interview prep. 5+ leetcode questions, scouring these subreddits as well as blind basically every day looking for insight into the interview processes, and watching every mock system design interview I could find on youtube.
+
+My leetcode profile shows 350 questions solved which is nothing compared to some ppl on this sub but I really took the time with each one to understand it deeply and really emphasized the patterns underlying each one so that I could quickly identify the DS/A needed for a given question. Every question I did I was imagining I was sitting in front of an interviewer explaining my thoughts to them and managed to find some ppl in a discord to do mocks with.
+
+For system design I followed a learning roadmap similar to neetcode roadmap but for system design (shout out to the EasyTree at easyclimb.tech/learning) and basically just watched a bunch of system design interviews on youtube. Didn’t really do any mocks but I was interviewing for mid level at both companies so I wasn’t too worried about blowing anyone out of the water. I just needed to make sure there were no gaps and that I didn't say anything stupid and could explain tradeoffs in design decisions.
+
+The phone screen came around at Meta and I was asked basic calculator and one question I had never seen before, I honestly don't even remember the details of it because my heart was racing and my world was spinning due to nervousness (I think it was a take on “number of stickers” but a variation that made it into more like a medium). I managed to come up with the optimal solution for the first and something resembling an optimal solution for the second and got the call back a little over a week later that they wanted to schedule the onsite.
+
+At this point I hadn’t heard back from the Amazon recruiter after their screen so I was full steam ahead ripping through Meta tagged, dialing in behavioral and consuming more system design content.
+
+The onsite came fast. Four rounds. Two coding, one system design, and one behavioral. The first coding round went great (classic graph traversal, thank God). The second was rougher, a tree problem that required a twist at the end, and I barely got there in time. The system design went better than expected. I walked through designing a messaging app with read receipts and offline sync, leaned hard on consistency vs availability tradeoffs, and tried to keep it high level without overengineering anything.
+
+The behavioral was actually the easiest, not because I’m some incredible communicator but because I had actually lived the stories I was telling. I had prepared some solid stories that were all real and relatable I think.
+
+A week later, I got the call. We’re moving forward. Base + bonus + stock around $295k TC. I sat in my car for like 20 minutes after that call just staring at the steering wheel. It didn’t even feel real.
+
+So yeah. My apartment’s still kinda empty/lonely but today I got the Meta offer letter and for the first time in a long time, I feel things are breaking my way.
+
+**TL;DR**  
+**Offer $295k TC (e4)**  
+**Coding resources: Neetcode roadmap (https://neetcode.io/roadmap)**  
+**System design resources: EasyClimb roadmap (https://easyclimb.tech/learning)**
+
+Discord where I did the mocks - [https://discord.gg/nGGvH9KXnm](https://discord.gg/nGGvH9KXnm)
+
+COMMENTS:
+[score: 429] Congrats! Careful of lifestyle creep, save while the saving is good!
+
+[score: 420] indian version of thukrake mera pyaar
+
+[score: 273] yeah, you’re living it
+
+[score: 121] Congrats on persevering man
+
+[score: 117] lol is there a non indian version?
+
+[score: 90] A couple more gin and tonics and I might be sending the "u up" text
+
+[score: 74] Congratulations OP! I admire your perseverance.
+
+For those who are wondering, the "Number of Stickers" variant is one where you have to return the number of stickers to create a poster (context of the problem could differ slightly).
+
+The thing that makes it easier is that you only have a single sticker, and you can use as many quantities as you can.
+
+    sticker = "froog", poster = "frooooogg"
+    Answer = 3
+
+Hopin' everyone else's study prep goes well!
+
+EDIT: here's my solution to it (should clear up any questions. And no, you cannot use partial stickers): [https://github.com/CodingWithMinmer/CodingWithMinmer/tree/main/Unknowns/4\_stickers](https://github.com/CodingWithMinmer/CodingWithMinmer/tree/main/Unknowns/4_stickers)
+
+[score: 71] Congratulations bro, I Failed in Step1: don't even have a GF 😭.
+
+[score: 70] Just don’t stoop to the “you don’t have to reply to this” text and you’ll be good. 😂
+
+[score: 67] Congrats bro. Don’t let her come back now that you’re up.
+
+[score: 63] DONT DO IT - seriously, enjoy your victory and shoot that text to someone else
+
+[score: 42] Congratulations Man,
+This is so great to hear that you made it. I'm currenrly going through same phase of yours. Got dumped by her of 3 yrs relation for no reason. 
+I'm focussing on job switch to some good PBC. 
+
+Man, can you briefly say how long it took for you to master DSA. Do you have full grip on DSA since clg or you started learning while doing job?
+And also how many YOE you have.
+
+[score: 35] Hey I've seen your videos! Yes this was the exact variation lol but it was "faceboook" and "faceeeeeebooook" or something
+
+  
+The onsite coding tree problem was this one btw - [https://leetcode.com/problems/maximum-depth-of-binary-tree/description/](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+
+I fking hate this question because it says easy but its not easy lol
+
+[score: 29] isnt thukrake mera pyaar the indian version?
+
+[score: 27] Fuck that! Don’t you fucking do it bruh
+
+[score: 27] Your story is almost similar to this: [https://www.reddit.com/r/csMajors/comments/1infnih/got\_dumped\_after\_graduation\_by\_my\_prom\_date\_and/](https://www.reddit.com/r/csMajors/comments/1infnih/got_dumped_after_graduation_by_my_prom_date_and/)
+
+Breakups are helping to crack FAANGs. Thats so powerful!
+
+[score: 26] you will def motivate me for a week now im just starting college next month
+
+[score: 22] Hash maps, you’d be shocked how often there is a hash map somewhere in the answer especially with optimizations
+
+[score: 21] >but I suspect it was more like I wasn’t immediately able to provide the lifestyle she wanted which is fair.
+
+is it fair though? she couldn't see you for your potential so what's she worth? you're still young, 4 years out of college. good riddance.
+
+[score: 18] i think 300k is enough anywhere and have already clocked some <3k a month 1 bedrooms that seem decent enough. Life changing money for me
+
+[score: 17] *Don't save in dollars*
+
+[score: 16] Hey, which location are you joining Meta at?
+
+[score: 15] Return 1+max depth of children, how is that not an easy question?
+
+[score: 15] MPK - recruiter told me BEL and MPK both had teams with headcount but I dont like rain xD
+
+[score: 15] Congrats brother! 
+
+Also to anyone reading if you’re depending on your partner to provide you a lifestyle that you want, maybe grow up be and adult and work for it yourselves.
+
+[score: 15] Yes but lemme level set with you. That 300k is more like 180k base that you'll need to budget on. Still good, but not quite balling yet. RSUs are very unpredictable. Bonuses too. And once you're in you need to stay in to keep your lifestyle, except now you're surrounded by other people like you who were ready to sacrifice their personal life for career advancement. The grind doesn't stop once you get in. Just be ready for that
+
+[score: 14] Congratulations. What a comeback!
+
+[score: 13] Offer from Meta? NO TOXIC GIRLFRIEND ANYMORE?
+
+Sling that wood, champ.
+
+[score: 13] Like a phoenix from the ashes. Was dumped in October myself as well.  I myself am also interviewing for Google. Got my onsites finally next week back to back.
+
+Hoping all this has been worth it.
+
+[score: 13] 295k tc nice, her loss also fuck meta though shity ad company
+
+[score: 10] Hey, if you could recall, what was the twist mentioned at the end for this question
+
+[score: 9] i was thinking the same
+
+[score: 9] Lmao
+
+[score: 8] ha bhai main bhi wohi soch raha but look at the upvotes log bhavnao ko samaj gae haha..
+
+[score: 8] Question, how did you split your time between
+
+Leetcode | System Design | maybe behavioral 
+
+Also you said you did that for 6 months. Is that when you felt like you were strong enough to apply? Or did you apply earlier than that?
+
+Thank you! And congrats!
+
+[score: 7] You need 5 'o's and you can only get that with three 'froogs'
+
+[score: 6] Pesos?
+
+[score: 6] Strongly heald opinion coming in. I grew up in the greater seattle metro area. Seattle suuuuuucks. 
+
+It's a grimy, dirty, poorly ran city with lots of crime and it rains 9-10 months out of the year. And it's also expensive. It doesn't really have redeeming qualities.
+
+[score: 6] Wishing you the best.
+
+[score: 6] we aren't defined by our past, but by what are currently. no one will but you will remember the tears along the way, only see the results. but the results are what you have now, so congrats. sip, and sip again some years down the road again, to remember this day.
+
+[score: 5] Thukrake mera pyaar IS Indian. There's no gora version for it as of now lol.
+
+[score: 5] +1
+
++1
+
++1
+
++1
+
++1
+
+.
+.
+.
+.
+.
+.
+. read more
+
+[score: 5] This is fucking awesome man, congrats. I feel motivated to keep pushing on my LC grind now so thank you for sharing
+
+[score: 4] Delete your answer, you don’t want your offer rescinded   Better safe than sorry
+
+[score: 4] Congrats. And thank God that she left you before seeing your best. Only God knows what he'll she would have brought done upon your life if she decided to stay with you and prey on your life.
+
+[score: 4] I'm a little confused by this. Are you just finding the missing letters?
+
+[score: 4] When someone goes they make space in our life and that space will be fulfilled by other blessing. Congratulations ✨️
+
+[score: 4] Its alright bud, take the good memories and keep going. You are already off to a great start. Congrats!
+
+[score: 4] Same happened to me kinda. Locked in and graduated in time for my job offer. GF said she didn’t get what she needed and left. 6 years btw. 
+
+So it’s just me and my new job. I had planned to use that money to buy us a house, to stay over in her city (we were long distance), and to build a life we wanted. I did it for her really. And she left. 
+
+It’s been rough like 8 months now? I still miss her but there’s someone else in my life now and she’s amazing. My ex seems happy but I’ve heard she isn’t but she’s made no move to come back. I hope life gets better, and it really has, so tbh I hope I get better to where I don’t miss her anymore
+
+[score: 3] So the sticker has 1 f, 1 r, 2 o's and 1 g. You need a *minimum* of 3 stickers to create the poster.
+
+You'd have 3 f's, 3 r's, 6 o's and 3 g's, which is enough. Sure, you have an extra 'o' but that's allowed.
+
+[score: 3] how is the ans 3?
+
+[score: 3] Is there a leetcode similar?
+
+[score: 3] Great question. Yeah, it's LC691 but that one is rarely asked. If it is, gg :(
+
+[score: 3] Bro dodged a bullet but still running into fire, please don’t.
+
+[score: 3] Perfectly balanced, as all things should be.
+
+[score: 3] “I wasn’t immediately able to provide the lifestyle she wanted which is fair” congrats but lmao what
+
+[score: 3] Not reading all of this but she's broke and you're up

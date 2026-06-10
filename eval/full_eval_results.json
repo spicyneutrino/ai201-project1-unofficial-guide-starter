@@ -1,0 +1,277 @@
+[
+  {
+    "id": "Q1",
+    "question": "What do students say about the role of social skills vs technical skills in getting and keeping a tech job?",
+    "expected": "Social skills and likeability are cited as more important than raw productivity for job security and advancement at big tech.",
+    "strategies": {
+      "fixed": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "cscareerquestions",
+            "title": "4 years at Big tech. Being likeable beats being productive every single time",
+            "rrf": 0.03306010928961749
+          },
+          {
+            "rank": 2,
+            "subreddit": "cscareerquestions",
+            "title": "4 years at Big tech. Being likeable beats being productive every single time",
+            "rrf": 0.03279569892473118
+          },
+          {
+            "rank": 3,
+            "subreddit": "cscareerquestions",
+            "title": "4 years at Big tech. Being likeable beats being productive every single time",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "Students and professionals in the tech industry believe that social skills and being likeable are more important than technical skills in getting and keeping a tech job. Many commenters agree that unless you are exceptionally talented, social skills and personality are more valuable than technical skills. One commenter mentions that they believe their social skills secured their position in big tech, despite having social anxiety. Others note that it's easier to improve technical skills than to fix personality issues, and that people prefer to work with those they like, even if they are not the most technically skilled.\n\nSources: 4 years at Big tech. Being likeable beats being productive every single time (r/cscareerquestions)",
+        "sources": "Sources: [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions)"
+      },
+      "paragraph": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "cscareerquestions",
+            "title": "4 years at Big tech. Being likeable beats being productive every single time",
+            "rrf": 0.03306010928961749
+          },
+          {
+            "rank": 2,
+            "subreddit": "leetcode",
+            "title": "it takes time",
+            "rrf": 0.032539682539682535
+          },
+          {
+            "rank": 3,
+            "subreddit": "cscareerquestions",
+            "title": "4 years at Big tech. Being likeable beats being productive every single time",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "Students and professionals in the tech industry emphasize the importance of social skills over technical skills in getting and keeping a tech job. They suggest that being likeable, friendly, and sociable can be more valuable than having exceptional technical skills. For example, one individual stated that social skills secured their position in big tech, as they were able to have an interesting conversation with the hiring manager during the final interview. Others noted that it's easier to improve technical skills than to fix personality issues, and that companies are looking for someone who can communicate effectively with stakeholders, rather than just being a cutting-edge expert.\n\nSources: 4 years at Big tech. Being likeable beats being productive every single time (r/cscareerquestions), it takes time (r/leetcode)",
+        "sources": "Sources: [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions), [it takes time] (r/leetcode)"
+      }
+    }
+  },
+  {
+    "id": "Q2",
+    "question": "What is the experience of preparing for and passing a Meta software engineering interview?",
+    "expected": "Extensive LeetCode practice (hundreds of problems), behavioral prep, and multiple interview rounds; the poster passed after a long grind and relationship difficulties.",
+    "strategies": {
+      "fixed": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "csMajors",
+            "title": "Can't stop tearing up, got my first FAANG offer from Apple",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 2,
+            "subreddit": "cscareerquestions",
+            "title": "4 years at Big tech. Being likeable beats being productive every single time",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 3,
+            "subreddit": "leetcode",
+            "title": "Got dumped by GF of 4 years but got a Meta offer today",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "According to Document 3, the experience of preparing for and passing a Meta software engineering interview involves extensive preparation, including: \n- Solving 350 Leetcode questions and taking the time to understand each one deeply\n- Scouring subreddits and Blind for insight into the interview processes\n- Watching every mock system design interview on YouTube\n\nThis preparation helped the individual to understand the patterns underlying each question and quickly identify the data structures and algorithms needed.\n\nSources: Got dumped by GF of 4 years but got a Meta offer today (r/leetcode)",
+        "sources": "Sources: [Can't stop tearing up, got my first FAANG offer from Apple] (r/csMajors), [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions), [Got dumped by GF of 4 years but got a Meta offer today] (r/leetcode)"
+      },
+      "paragraph": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "csMajors",
+            "title": "Can't stop tearing up, got my first FAANG offer from Apple",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 2,
+            "subreddit": "leetcode",
+            "title": "Got dumped by GF of 4 years but got a Meta offer today",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 3,
+            "subreddit": "leetcode",
+            "title": "Got dumped by GF of 4 years but got a Meta offer today",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "The experience of preparing for and passing a Meta software engineering interview involves intense preparation, including completing a large number of LeetCode questions, scouring subreddits and other resources for insight into the interview process, and watching mock system design interviews on YouTube. One individual reported doing nothing other than interview prep for 5 days a week, including weekends, for 6 months, which included completing 5+ LeetCode questions daily. This preparation ultimately led to receiving a job offer from Meta.\n\nSources: Got dumped by GF of 4 years but got a Meta offer today (r/leetcode)",
+        "sources": "Sources: [Can't stop tearing up, got my first FAANG offer from Apple] (r/csMajors), [Got dumped by GF of 4 years but got a Meta offer today] (r/leetcode), [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions)"
+      }
+    }
+  },
+  {
+    "id": "Q3",
+    "question": "How many job applications did students send before getting a software engineering offer?",
+    "expected": "Community reports range from hundreds to over 2000 applications; volume and persistence are recurring themes.",
+    "strategies": {
+      "fixed": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "csMajors",
+            "title": "My job search",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 2,
+            "subreddit": "csMajors",
+            "title": "My job search",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 3,
+            "subreddit": "csMajors",
+            "title": "My job search",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "According to the documents, the student sent over 2000 job applications before getting a software engineering offer. \n\nSources: My job search (r/csMajors)",
+        "sources": "Sources: [My job search] (r/csMajors)"
+      },
+      "paragraph": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "csMajors",
+            "title": "My job search",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 2,
+            "subreddit": "cscareerquestions",
+            "title": "4 years at Big tech. Being likeable beats being productive every single time",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 3,
+            "subreddit": "csMajors",
+            "title": "My job search",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "According to Document 1, one student sent roughly 2k applications before getting a software engineering offer. \n\nSources: My job search (r/csMajors)",
+        "sources": "Sources: [My job search] (r/csMajors), [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions), [Our team stopped doing standups, story points and retros \u2014 and nothing broke] (r/SoftwareEngineering), [it takes time] (r/leetcode)"
+      }
+    }
+  },
+  {
+    "id": "Q4",
+    "question": "What do students say about getting a return offer after a summer internship?",
+    "expected": "Return offers can come through unexpected channels; one post describes receiving an offer erroneously then having it rescinded.",
+    "strategies": {
+      "fixed": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "internships",
+            "title": "Got sent a return offer by mistake LMAO",
+            "rrf": 0.03306010928961749
+          },
+          {
+            "rank": 2,
+            "subreddit": "csMajors",
+            "title": "My job search",
+            "rrf": 0.031746031746031744
+          },
+          {
+            "rank": 3,
+            "subreddit": "internships",
+            "title": "Got sent a return offer by mistake LMAO",
+            "rrf": 0.016766080127249228
+          }
+        ],
+        "answer": "Students express strong desire for return offers, with one commenting \"Would do anything for a return offer\" and another suggesting that the company should have given the return offer after the initial mistake. \n\nSources: Got sent a return offer by mistake LMAO (r/internships)",
+        "sources": "Sources: [Got sent a return offer by mistake LMAO] (r/internships), [My job search] (r/csMajors), [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions)"
+      },
+      "paragraph": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "internships",
+            "title": "Got sent a return offer by mistake LMAO",
+            "rrf": 0.032539682539682535
+          },
+          {
+            "rank": 2,
+            "subreddit": "internships",
+            "title": "Got sent a return offer by mistake LMAO",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 3,
+            "subreddit": "internships",
+            "title": "Got caught sleeping with 2 days left on my internship.",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "In the context provided, one commenter suggests that the person who received a return offer by mistake should have actually been given the return offer. However, there is no general discussion about what students say about getting a return offer after a summer internship. \n\nThe only relevant information is from a commenter who thinks the person should have been given a return offer, but this is in the context of a mistaken return offer, not a typical return offer situation.\n\nSources: Got sent a return offer by mistake LMAO (r/internships)",
+        "sources": "Sources: [Got sent a return offer by mistake LMAO] (r/internships), [Got caught sleeping with 2 days left on my internship.] (r/internships), [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions), [My job search] (r/csMajors)"
+      }
+    }
+  },
+  {
+    "id": "Q5",
+    "question": "How are software engineering teams handling code review for AI-generated code?",
+    "expected": "Teams are struggling; common responses include stricter review processes, pair review, and skepticism about AI output quality.",
+    "strategies": {
+      "fixed": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "SoftwareEngineering",
+            "title": "How is your team reviewing all the AI generated code?",
+            "rrf": 0.03306010928961749
+          },
+          {
+            "rank": 2,
+            "subreddit": "SoftwareEngineering",
+            "title": "How is your team reviewing all the AI generated code?",
+            "rrf": 0.03200204813108039
+          },
+          {
+            "rank": 3,
+            "subreddit": "SoftwareEngineering",
+            "title": "How is your team reviewing all the AI generated code?",
+            "rrf": 0.016766080127249228
+          }
+        ],
+        "answer": "Software engineering teams are struggling to handle the increased volume of code to review due to AI-generated code. Some teams are spending 30-60 minutes a day reviewing production code, but this is becoming unsustainable with the faster pace of AI-generated code. There is a suggestion to use AI to review code as an additional filter to catch defects, but not as the only filter. Others are jokingly suggesting to have AI review the PRs, implying the challenges and potential risks of relying on AI for code review. \n\nSources: How is your team reviewing all the AI generated code? (r/SoftwareEngineering)",
+        "sources": "Sources: [How is your team reviewing all the AI generated code?] (r/SoftwareEngineering), [4 years at Big tech. Being likeable beats being productive every single time] (r/cscareerquestions)"
+      },
+      "paragraph": {
+        "top3": [
+          {
+            "rank": 1,
+            "subreddit": "SoftwareEngineering",
+            "title": "How is your team reviewing all the AI generated code?",
+            "rrf": 0.03306010928961749
+          },
+          {
+            "rank": 2,
+            "subreddit": "SoftwareEngineering",
+            "title": "Our team stopped doing standups, story points and retros \u2014 and nothing broke",
+            "rrf": 0.016766080127249228
+          },
+          {
+            "rank": 3,
+            "subreddit": "SoftwareEngineering",
+            "title": "How is your team reviewing all the AI generated code?",
+            "rrf": 0.016492856083533382
+          }
+        ],
+        "answer": "Software engineering teams are struggling to review AI-generated code due to the increased volume of code being produced. One team spends 30-60 minutes a day reviewing production code, but with AI-generated code, they are making pull requests faster than they can be reviewed, causing pushback on using AI. Another team member jokingly mentions that 10 days of reviewing AI code seems acceptable, but writing it themselves would not be. \n\nSources: How is your team reviewing all the AI generated code? (r/SoftwareEngineering), Our team stopped doing standups, story points and retros \u2014 and nothing broke (r/SoftwareEngineering)",
+        "sources": "Sources: [How is your team reviewing all the AI generated code?] (r/SoftwareEngineering), [Our team stopped doing standups, story points and retros \u2014 and nothing broke] (r/SoftwareEngineering)"
+      }
+    }
+  }
+]

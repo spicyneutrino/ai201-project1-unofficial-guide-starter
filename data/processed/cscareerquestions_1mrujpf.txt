@@ -1,0 +1,336 @@
+SUBREDDIT: cscareerquestions
+POST_ID: 1mrujpf
+POST_TITLE: 4 years at Big tech. Being likeable beats being productive every single time
+POST_SCORE: 4990
+POST_URL: https://www.reddit.com/r/cscareerquestions/comments/1mrujpf/
+POST_DATE: 2025-08-16
+
+POST:
+**TL;DR: Grinding harder made me less productive AND less likeable. Being calm is the actual cheat code.**
+
+I'm 4 years deep at a big tech company, and work-life balance has been absolutely brutal lately. For the past year, I went full psycho mode—trying to crush every single task, racing through my backlog, saying yes to everything.
+
+**Plot twist: It made me objectively worse at my job.**
+
+Here's what I didn't expect: When you're constantly in panic mode, your nervous system goes haywire. You become that coworker who's stressed, short with people, and honestly just not fun to be around.
+
+**And here's the kicker—being pleasant to work with is literally the most important skill in Big Tech.**
+
+Think about it: The people who get shit done aren't grinding alone in a corner. They're the ones other people WANT to help. They get faster code reviews. They get invited to the important meetings. They get context shared with them freely.
+
+When you're stressed and snappy? People avoid you. Your PRs sit in review hell. You get excluded from decisions. You end up working 2x harder for half the impact.
+
+**The counterintuitive solution: Embrace strategic calm.**
+
+I started doing less. I stopped panic-working. I took actual lunch breaks. I said "I'll get back to you tomorrow" instead of dropping everything.
+
+Result? My productivity went UP. My relationships improved. My manager started praising my "executive presence."
+
+**In Big Tech, your nervous system IS your competitive advantage.** Stay calm, stay likeable, and watch opportunities come to you instead of chasing them down like a maniac.
+
+Anyone else discover this the hard way?
+
+COMMENTS:
+[score: 1230] Pretty sure I've said this before, but I'm convinced that my social skills secured the position I have in big tech. I was able to have an interesting conversation with the HM during the final interview. 
+
+And I have a lot of social anxiety, but had a job in the past that required I talk to people a lot on the phone. So even tho I may be awkward in social settings, my work relationships are usually much easier to maintain. 
+
+Then again, I like playing politics at work, I think it's kinda fun. But here are some additional tips I'd recommend:
+
+* audibly repeat back your understanding of what someone else wants you to do to avoid confusion
+
+* Don't complain about co workers, it's fine to ask your boss for feedback on how to handle a coworker, but don't come across as attacking them. 
+
+* Only bitch upwards, it's not a good look if you're complaining about bosses to people less senior than you,but when you do complain about something to your boss, offer solutions
+
+* praise often, praise early - if someone has a good idea, tell them. This avoids coming across like a contrarian and shows you're open to other people's ideas. 
+
+* admit when you don't know something - no one likes a no it all especially about matters you clearly don't understand. This gives your thoughts and opinions more weight when you do express them.
+
+* Use words like "We", "Us", & "As a team", instead of "you created this bug on this PR", "we created this bug, and we missed it during the PR", "what if we need to add  X functionality?"
+
+* form relationships with users (if non public facing software) and stakeholders. If you have a bug you're investigating, just tell the user, this builds more trust and good will. 
+
+* when debating about designs/patterns/architecture, just don't say "this isn't good because X, Y, Z", ask people questions in a way that it will lead them to the conclusion you want them to make. "Will this work under this use case?", "what if the user does X?", etc. 
+* ask your manager how other folks are doing, "how is John doing lately? He seems a bit stressed out or anxious". Shows you're aware of people's emotions and you're concerned about others. 
+
+I feel like there are more, but this is what I've found.
+
+[score: 575] Almost everyone on earth likes a human written post more than AI
+
+Stop contributing to the dead internet with slop
+
+[score: 562] Thanks ai
+
+[score: 407] I spent six years at FAANG.
+
+I had glowing performance reviews for the first 5
+
+Transfer to a new team. Manager and I didn’t get along because he overloaded me with work. Unsurprisingly, I underperformed the last year
+
+[score: 349] This is better.
+
+[score: 303] Excellent. I would add, give credit where credit is due. If someone helped you, mention it in team meetings. It doesn’t detract from your accomplishments and builds trust and favor with others.
+
+[score: 282] Yes, that is better. You're outsourcing your personality to AI
+
+[score: 227] That's what I've always told friends who wanted to get into the tech: social skills/personality >>> tech skills
+
+Almost every single time it proves true unless you are so exceptional that others have to carry on with your lack of social abilities but let's be honest - most people arent.
+
+It's much easier to bump up in terms of tech skill than fixing fucked up personality
+
+[score: 122] If you wrap your writing in AI no one will know if it’s actually based on what you think or if you just told it “come up with an r/cscareerquestions post”. I like this one better :)
+
+[score: 112] Just asked it to make it more digestable
+
+do you like this instead?
+
+I'm at big tech, been here for around 4 years, and lately WLB was getting insane. For past year, I've been going so hard, trying to complete as many tasks as possible, but I realized it's actually very unproductive. When you're trying to do so much, your nervous system gets overwhelmed, and you start to become someone who isn't as pleasant to work with. and to survive in this big tech hell, we need to be pleasant to work with, because people who are pleasant to worth with get more done by scaling through other people. So if you panic, it's the worst thing you can do. instead do the counter intuitive thing and be relaxed.
+
+[score: 101] Absolutely this. It also makes you look humble and competent. Everyone wins.
+
+[score: 87] I personally have seen the exact opposite in my career, 14 YoE. Guys who were notorious assholes but great at what they did rose fast, one is even a distinguished engineer in his early 30s. Nice, calm people were seen as happy where they were. Squeaky wheels got the grease, in this case, raises and promos. Could just be cultural though
+
+[score: 72] Wow so just like everything else in life
+
+[score: 69] This is the way. This is straight up just a guide for navigating any human organization, not just “tech” alone. Well done
+
+[score: 68] This is better. Much less clanker.
+
+[score: 59] Only comment on the royal "we", especially as you get more senior - `we` is reserved for fuckups, not positive news, unless it's your fuckup. Then it's `I`, ideally followed up with a resolution or mitigation plan.
+
+[score: 55] To me its not using AI thats the problem in itself, its that it has formatted it like linkedin slop so my eyes just glazed over once I got to "plot twist"
+
+[score: 55] People overestimate their technical skills, think their resume is unique but pull 1000 resumes and you'll find out most people have the same level of skill. That's where your persona comes in and please don't consider yourself an outlier if you do not have any empirical evidence for it.
+
+[score: 54] My biggest one: credit where credit is due - always call out as many other people for their good work and contributions and even if those contributions are minimal or you don't like them.  It makes them look good, makes them love you, and feel safe working with you and to fight for you.  Who doesn't want a promoter in their corner?  More importantly it gets you perceived as a leader and confident af... This guy is so confident he feels no need to pat his own back and spends his time pointing out good work, wow he must be super secure.  Finally, in worst case scenarios it deflects the consequences of bad work on to the people who did it.  When it turns out the number was wrong or the bug was there you can simply refer it back to the person who did the original work and they will go fight like hell to make sure it gets solved and earn your trust back.
+
+Finally finally, it creates the kind of culture we all actually want to work in, open, collaborative and sharing of the total burden of work.
+
+[score: 54] As a principal at a big company and formally a DE at another company. In my opinion yes of course it's the "squeaky wheel" here. Though I try not to be an asshole, but what promotes you is "pushing". Pushing for change, pushing for what you think is right, being vocal about what we should do is extremely important.
+
+Look at it this way if you are an executive trying to figure out who to promote to leadership. Do you want the guy that sits back and goes with the flow but is capable of tasks or the guy that is coming to you with ideas, direction, vocally calling out problems and pathways forward and is also good technically. It's kind of a no brainer.
+
+High up people don't want to tell their leaders what to do, they want their leaders to go out and do the right things on their own and... You know... Lead. Then the higher ups can course correct if they need to.
+
+[score: 49] I'm a backend developer and got transferred to a front end where I failed miserably. I left that job and am now doing great.
+
+[score: 46] Panicked and stressed brains are objectively less intelligent. You’re paid to be smart. Getting shit done as a SDE is all about optimizing for time when you are rested, calm and focused on a single problem.
+
+[score: 44] > Just asked it to make it more digestable
+
+Everybody says that.
+
+Congrats for contributing to the slopification of the human mind.
+
+[score: 44] It's deeply ironic that OP is trying to make this whole argument about how to be likable in a tech job, meanwhile he's filtering his entire personality through AI
+
+[score: 43] Yup, I personally like this one more
+
+[score: 42] This goes hard - I think the short summary for this is always praise publicly and bitch privately
+
+[score: 41] As an anxious person, I hate thisssss
+
+[score: 39] [Removed]
+
+[score: 36] First year no feedback other than “you’re doing great”. 6% raise. 5 months later, apparently I’m not performing at the level expected. Never got any feedback prior to this. Asked how can we measure my performance to ensure I’m getting better. Should we meet more often instead of every 2 weeks?  No, manager doesn’t believe in that. I should just get better. 
+
+Found out after speaking with HR my manager had been talking to HR for several weeks about me. I protested but of course they can’t take a side. 
+
+I opted to leave and take a severance. HR was surprised and I asked why would I stay here. My manager isn’t trust worthy and I refuse to continue to get treated this way.
+
+[score: 36] When hiring someone, people have the misunderstanding that they're looking for the best person skills-wise. What they want is a person with the necessary skills, and from those who tick those boxes, they choose the one they feel they're most likely happy to work with. In general, ymmv etc. of course.
+
+If Bob and John do the same quality work as far as you know, but Bob feels like a bit of a dick, why would you gamble on him? Even if John ends up not being better, at least he's nice and does the job well enough regardless.
+
+[score: 34] I don't recall who this was, but there was some famous coach who would always phrase it as "YOU won", "WE tied" or "I lost".
+
+[score: 33] This is the ironic reality that I learned the hard way. I couldn’t wrap my head around the idea that I could be 100% correct about improving the code base, improving processes, and still be told that I have poor performance. It sucks more because no one will be clear what they mean by “performance”, which really means how well do you vibe with the team. It turns out I was giving my all every day when I didn’t have to. Everyone really is just pretending to work and doing the bare minimum while giving a performance to everyone else. And of course, since they don’t like your vibe, they can conspire against you and manage you out. It’s brutal. And honestly it’s not an environment I want to work in. Big tech isn’t everything. It will do anything to suck your soul out, and it’s not afraid to discard you in an instant
+
+[score: 31] This exchange is such a good example of how dogshit ai is at writing
+
+[score: 29] I’ve also found this in my own career. Maybe not being an asshole, but I held people accountable for not doing their jobs and loudly praised those who did, all the way up their leadership chains. I was specific about the impact it had on the bottom line in both cases. 
+
+Now I have fantastic relationships with everyone in the org who actually does their jobs. The people who are low-competency know to avoid me, or to get the things I need done quickly so we can mutually disengage as fast as possible. 
+
+I don’t have some kind of moral desire to see lazy people get fired - I myself, as a software engineer, love automating boring shit - but when incompetent people make MORE work and stress for people who DO their jobs, I consider that violence and respond in kind.
+
+[score: 26] OP didn't say it's the way to make companies profitable
+
+He just said it's the way to get promoted
+
+In a way, that's the trick of a broken system
+
+[score: 23] Yeah, unless you're in the top 1% of tech talent you're simply better off investing in your relationships and soft skills after a point. It's not even sucking up. It's just that people like working with people that they like, so they'll go to them when they have a question or idea, and they'll include them when that idea turns into a small project, etc, etc.
+
+[score: 22] YES, I like it better. We're fed up with ai slop.
+
+[score: 22] I'd say it *is* less digestable, but it does feel more human and some prefer that even at the cost of clarity.
+
+I think the good optimum is to use AI as a teacher for what digestable looks like for what you're trying to communicate, like how it separates and orders and stresses ideas.  Then, you can rewrite your post trying to get closer to that while still saying it in your own voice.
+
+This is more work, so maybe its not worth it for you, its a tradeoff of having the quick better-than-now-but-capped-in-quality AI version that feels off, versus treating it as an investment in yourself and your ability to do it well so that one day its so natural you can do it faster than having a first attempt + AI.
+
+I still got value from your post and probably got more practical value from it than if you posted this specific initial fully human version, so I appreciate you posting this regardless.
+
+[score: 22] Same. I'm so jealous of people who have the chill vibe under any circumstance, cracking jokes and stuff
+
+Meanwhile I'm so anxious I can barely think
+
+[score: 21] I think it's a big advantage for big tech. I don't want to work with people who are unpleasant to work with.
+
+That is not saying I want to work with incompetent people either though. It's saying being technically strong isn't sufficient, even though it's still necessary. At a smaller company, being the only person who knows how to get certain things done might be enough even if you're a raging asshole (or autistic enough to behave like one from everyone else's point of view even if you're not trying to be), because your bosses don't really care when it would be a lot of work to find someone to replace you if they fired you, and you account for a big chunk of the tech team's output at a small company. In a FAANG though if your co-workers just find you make their day worse, it doesn't matter if you can go off and code on your like a savant, that is not useful at the end of the day because the work is going to affect other people no-matter what - you're not going to be able to do a whole team or org's work on your own. Firing you and bringing on one of the 5k people that were interviewed in the past week is a much better option than keeping you around bringing everyone else down.
+
+> Does it make them more good? I keep getting told by non-CS people that "nerds lack ethics training" but I don't think a bunch of MBAs and political operators are going to see any value beyond the dollar. These people used to go into finance and law where their focus was nothing but layering their own nests.
+
+This is true, but no one is saying MBA's and political operators are making the choices to push out people with negative social skills, the other engineers are. I guess it might be a shock to a (hopefully small) minority of engineers that genuinely take pride in having no social skills, but the rest of us aren't completely socially inept, and actually do notice when some people are just impossible to work with.
+
+[score: 20] Do ai models get worse or they always had such a distinct writing style?
+
+[score: 19] >more digestable
+
+Plain white rice is incredibly digestable. It's also bland and boring as fuck
+
+[score: 19] Who knew making friends was good for your career
+
+[score: 17] As someone who’s been in big tech for 29 years, who’s had countless people join an leave our team over the years, as someone who’s worked with interns, contractors, full time people… I can tell ya I’d much rather take someone who works well with then team an is like able over someone who is a genius but a complete asshole to work with. Hard skills are learnable. Soft skills much less so, so as far as I’m concerned having good soft skills is more important than being the best coder.
+
+[score: 17] Yeah, we have an issue with engineering culture when soft skills are valued more than hard skills.  
+Maybe that's why things suck as bad as they do.
+
+[score: 14] You would think that HR would be able to do some sort of analytics that would allow them to question why someone would have half a decade of good reviews followed by a bad review the second they move teams, but funny how that almost never happens, and they take these kinds of reviews at face value anyway.
+
+[score: 14] One hot button issue these days are “DEI hiring”. I’m not saying those that have criticisms of DEI hiring practices are wrong, but their arguments are often boiled down to “the most qualified person should get the job”. But that’s not how it works, nor how it’s ever worked. Because “most qualified” is subjective. 
+
+Yes, there’s deck stacking against men if you’re getting 400 male applicants and 100 female applicants, and shortlisting 5 from each group for the interview rounds. But that doesn’t mean the 5 selected women aren’t likely to have what are essentially the same qualifications as the 5 men. Once it’s determined that you have the skill set for the job, or can reasonably pick it up once you join, it’s now just down to “who do I like the best?”. 
+
+So yes, having skills help. But a company isn’t looking for a cutting edge AI researcher for their $175k a year job implementing GenAI into the tech stack, for example. They’re looking for someone that knows what they’re doing and can talk about it to stakeholders.
+
+[score: 14] This works fine until you get an incompetent manager who sees you as a threat and spends multiple years trying to screw up your career, eventually going as far as to lie about the state of projects on your performance review as soon as peer-evaluations were eliminated from the process
+
+[score: 14] Some of this comes down to being likeable but some of it also comes down to doing the right thing slowly instead of the wrong thing fast
+
+[score: 13] It’s not pretty sure - it’s 100% the truth. I’ve lapped people far more technically skilled than I in career growth. 
+
+Went from Assistant Manager to Director in 15 months.
+
+AM was my first IT job ever. You know how many tenured people that pissed off? I do.
+
+Social skill always win.
+
+[score: 13] Yes. All this needs is a paragraph break somewhere. 
+
+Advising people that the key to success is being personable and wrapping that advice up in stale AI prose is crazy work.
+
+[score: 13] To be honest, I don't buy it.  I saw a coworker get fired this year, even though he was extremely likeable and calm, he kept delivering buggy tickets.  It seems more like you need a mixture of both...
+
+[score: 11] Yes. This is exponentially better. Have some confidence in your own writing.
+
+[score: 11] it doesnt. being likeable without being productive is awful. i wish big tech could flush out all the hangers-on who contribute nothing
+
+[score: 10] I mean, I would have hoped you used paragraphs, but yes I do prefer this.
+
+The AI posts are so long and stuffed with filler.
+
+[score: 10] I think the moment you start to focus about what others do is the moment you need to step back because you are crossing your responsibility boundaries (unless that is specifically your job).
+
+For example as a software engineer, your focus should be to deliver solutions as best you can. If someone else makes it hard to do that then report to your supervisor or to the appropriate people 
+
+But you should not judge anyone, just care about the facts and steps to overcome problems.
+
+After all, who knows what is going on in other peoples personal life, etc. 
+
+Just my 2 cents
+
+[score: 10] If I wanted to read chatgpt I'll ask chatgpt...
+
+[score: 9] Yes, AI generated text is like nails on a chalkboard. And it’s a good post that I agree with
+
+[score: 9] I know with 100% certainty this post was written by ChatGPT. Here’s the kicker — it’s obvious.
+
+[score: 8] I can’t believe there’s actual people who think ai-ed slop is any better than just writing one single paragraph themselves.
+
+[score: 8] I had the reverse thing happened. I took up a Dev Ops position for the first time and got kicked for it. Next time I will just stick to what I'm good at. Even at companies that preach continuous learning.
+
+[score: 8] excellent decision. you can never win once you’re being discussed privately.
+
+[score: 8] Performance = what you do and *how* you do it
+
+[score: 8] Yeah, but you know what I mean. An anxious person (eg me) will likely have to work harder to be calm and seem like a chill colleague.
+
+[score: 8] It's good advice and it's never late to realize. Being a try-hard would only make people to wish you to left
+
+[score: 7] Yes. Outsourcing your thinking to AI is *why* you couldn’t make this better on your own.
+
+[score: 7] Will also asd mastering the skill of convincing others to do something and how THEY would benefit goes a long way
+
+I was able to persuade my colleague a few weeks ago on presenting a demo of some optimization work we both did last month to the team so that we get visibility and our perf reviews become easier to write
+
+[score: 7] The code review thing hits hard.  You can be the fastest programmer in the world but if no one reviews your pull requests, you’re still blocked
+
+[score: 6] Yep. Too annoying to read something ai generated. Def better
+
+[score: 6] I am absolutely a personality hire, and it's not a front or a game. I don't think I'm a bad software dev, but goddamn there's some wildly clever programmers. I genuinely enjoy chatting up my team and getting to know them. I really enjoy doing stupid things like having an opening question at the beginning of a retrospective, like "what is your favorite language and what is your most proficient language," "what is the biggest oopsie you've made as a software developer," "what is the code you're most proud of." I'm not a team lead or management, so there's nothing at stake. It helps me get to know my team, feel less like an imposter, and helps new hires feel less like an imposter. I think it also makes my team feel seen and appreciated, so they enjoy talking with me when they're not busy. At least, I hope so.
+
+[score: 6] This is life advice in general. An abundance of stress and a lack of time is a form of poverty, no matter how much you earn.
+
+[score: 6] Some of us get told the wrong information about what it means to do well at work (go above and beyond, be the best coder) and only learn the truth after multiple failures. It’s not obvious to everyone.
+
+[score: 6] News flash: being likeable is critical in every career. This is not unique to big tech or software engineering careers. In fact, it's probably even more critical in customer service roles.
+
+Many software engineers seem to look down on putting effort to be likeable for some reason. Guys, it's important. Just go to the damn team event and have fun.
+
+[score: 5] Yes, it's much better. Plus one on please don't contribute to the sloppification of reddit. I don't care if the AI version seems technically better. I want to interact with humans and see a variety of writing styles and proficiencies. Anyway, your version is the same amount of information, condensed into like a third of the words. That's better writing imo.
+
+[score: 5] Hope this thread helps disenchant big tech employees capabilities that this sub think of. Most big techs devs tbh aren’t that good especially those who join right out of college post 2019. They are simply trying to survive in a big mature system.
+
+[score: 5] I honestly think it’s time to change this norm.
+
+A lot of folks are talented but never get career or any kind of growth because they couldn’t play the “game”. 
+
+Likability also has a lot of biases, which should definitely changed. 
+
+I also haven’t seen anybody surviving in the industry with no skills but communication or playing politics, it might look like it’s working for a smaller subset of people but even for them, it won’t work always. There will be time and place when you’ll be put in a position to prove your skills.
+
+[score: 5] The most effective way to be likeable is to be happy and calm youself. When you are happy and calm, you automatically pass these positive emotions to the people around you.
+
+[score: 4] You write well, no reason not to use your own wording
+
+[score: 4] Yes. I read this comment but I stopped reading your original post as soon as I saw AI structured writing because I don't know if the original was just a prompt or a human opinion written down in its raw form with AI's help. The comment, at least, looks and feels like human wrote it.
+
+[score: 4] Yes way better tbh
+
+[score: 4] Anxiety has nothing to do with being unlikeable. I would know.
+
+[score: 4] You can still have anxiety and be likeable, ask me how I know.
+
+[score: 4] If you haven’t caught on that half the battle in engineering is people then you’re either inexperienced, autistic, or were never important. Being likable isn’t difficult, just be a nice person and treat people with respect. Part of being a nice person is also not making it difficult to work for others.
+
+[score: 4] As another FAANG there is a lot of truth to this post, but I think it is somewhat big company specific.
+
+There's essentially an infinite amount of work at big companies that all makes very little impact so the "work" isn't really the product your standing with your peers becomes the product.
+
+This is less true in my opinion at smaller companies / startups where it objectively more important to be getting work done from the companies perspective.
+
+There's essentially entire orgs at my company that don't do that much but in the end the company has so much money it doesn't really make a difference.
+
+[score: 4] Grinding like AI grinds
+
+[score: 4] Not enough context.
+
+What color are you?
+
+Are you attractive?
+
+Some of us are *unlikable* simple because of the color of our skin.
+
+Good for you though. Congrats.
+
+[score: 4] I don’t like you already. Double it if you’re Indian
+
+[score: 3] Plot twist: yes this is so much better, would you also have AI generate texts to your significant other to make them ‘more digestible’?
+
+[score: 3] LMFAO ur username
+
+[score: 3] [Removed]

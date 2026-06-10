@@ -1,0 +1,102 @@
+SUBREDDIT: SoftwareEngineering
+POST_ID: 1smr8bl
+POST_TITLE: How is your team reviewing all the AI generated code?
+POST_SCORE: 74
+POST_URL: https://www.reddit.com/r/SoftwareEngineering/comments/1smr8bl/
+POST_DATE: 2026-04-16
+
+POST:
+Our team typically spends 30-60 mins a day reviewing all production code before merging. This worked fine when humans wrote the code. We recently got Claude licenses and we’re now making PRs faster than anyone wants to review it and it’s causing pushback on using AI because it’s too much code to review. I’m sensing philosophical and cultural battles ahead. 
+
+How has your team dealt with the increase in code to review without sacrificing quality?
+
+COMMENTS:
+[score: 96] You guys are reviewing it!?
+
+[score: 85] I usually, after the 4th or 5th comment, just tell them "Yeah, this thing just needs rebuilt from scratch, here are 4-5 pointers for how it should be done"
+
+[score: 61] Have Claude review the PR’s. What could go wrong?
+
+[score: 52] "We have conducted an investigation on ourselves and have found that we have done nothing wrong"
+
+[score: 33] Honestly prompting Claude to review my work has often gotten me better reviews than ones from my coworkers….
+
+[score: 26] Real developer commenting here? Wild
+
+[score: 21] Same as we do with human code. Skim through it in 5s without really reading it, and writing “lgtm”
+
+[score: 21] Push and pray. The higher ups are too used to the speed at this point….
+
+[score: 19] Garbage SWEs + AI still = garbage SWEs
+
+[score: 17] our process hasn't really changed. all changes go through code review by another developer. then QA. another developer reviews it again to review any changes made in QA. then it goes through QA again. only when all 5 people agree they have no remaining concerns is code merged to production.
+
+that being said, from design to implementation, pretty much everyone is using AI in some way. things go faster, and we're able to do more. the one thing i've noticed is that we catch a lot more issues in code review. also not everyone is transparent about when they use AI, which is a little concerning.
+
+[score: 15] I was given a task to add an endpoint to an old app so users could configure something without reloading a configuration file.
+
+The code was such a mess of spaghetti written by someone that hasn't worked for the company in 5 years, held together by duct tape added by well-meaning and overworked guys who didn't have time to get beyond whatever fix they needed. 
+
+No unit tests in sight, and our new policy requires 70% coverage on all new code. Everything was so jumbled together that even adding an endpoint required touching a dozen classes and writing unit tests for them.
+
+Despite AI assistance with the unit tests, I recommended rewriting the app to current standards and that I'd need 10 days uninterrupted to get it done.
+
+The Epic suddenly dropped a hundred points and no longer fits in the priority list.
+
+I'm just waiting for the day they tell me to let AI rewrite the whole thing. 10 days of reviewing AI code seems acceptable. 10 days of writing it myself is not. 🤷‍♂️
+
+[score: 11] Test driven development. It never leaves the workstation unless it passes pre-commit checks, test batteries, and those get defined with an architecture review before the sprint begins.
+
+[score: 9] That’s how Timmy was born.
+
+[score: 7] Same. Lot of people have more of an aversion to the idea of it than the actual practice of it. Every time I’ve seen someone have trouble, when i look at what they’re doing it is the level of “review this” level of instruction. If you actually structure your work, instructions etc it’s pretty incredible the level you can achieve vs what 90% of developers can do. It’ll never be at the level of the best of the best but of I’m honest most developers are aggressively average.
+
+[score: 7] That is exactly what our CTO wants us to do
+
+[score: 7] You have time for this??
+
+[score: 6] Having AI review code is a good use case and just adds another filter for catching defects. If it misses something, thats OK because we humans miss stuff too. If it gives a false positive, that's OK since no harm is being done, minus time sent looking into a false alarm.
+
+Just don't let AI become your only filter
+
+[score: 6] This is the expected shift. You don't write code anymore, you review it.
+
+[score: 5] More code means more time spent reviewing. Nothing strange with that.
+
+[score: 5] Hackers love this one simple trick.
+
+[score: 4] 🤣
+
+[score: 4] Dont forget the "Make no mistakes".
+
+[score: 4] Claude has very good PR reviews. Complex PRs people should read through still. I spend a good chunk of my day reading PRs and still find lots of stuff Claude misses.
+
+[score: 4] we usually do integration tests that trigger on commits or PRs. test failures block merges and kick off observability agent to do triage/test analysis to auto-label severity of issues. based on severity and module of code, it is either assigned to a human reviewer or handed off to a coding agent to iteratively fix code and validate fix with repeating coding agent  testing agent  observability agent until the tests pass. then the final pr is merged. 
+
+we happen to have really good coverage for our tests and have a test harness that works well for agents. 
+
+most of the time the defects we see are integration test issues rather than point issues in ai generated code. 
+
+hmu on dm if you want to compare notes.
+
+[score: 3] We use Claude to author code, and Cursor to review it.  We are looking at CodeRabbit for reviews.
+
+The point being to use different models for authoring and reviewing.
+
+[score: 3] Paying a service to write the code, then paying them to review what they wrote (and subsequently fix and re-review).
+
+It's wild, almost dystopian sounding. They're laughing all the way to the bank (sort of given the cost of running it all)
+
+[score: 3] Send it!
+
+[score: 3] This reminds me of my favorite quote:
+
+- Hope is not a strategy.
+
+[score: 3] Lmao we dont
+
+[score: 3] ai review bot
+
+[score: 3] We review the high level approach and lower level critical parts only and trust the AI on other parts. In my recent review I did actually go through almost 2000 lines of changes (including deletions), but it was quite fast since Claude creates so readable and clean code. We discussed the technical approach (the dev/Claude created) with devs and agreed it is sound. PR approved and merged.
+
+I find this reasonable since we so rarely find issues in Claude's code. And of course the dev using Claude should constantly review the output too. Our velocity has increases a lot. I think far more important than detailed PR review is testing the changes manually.
